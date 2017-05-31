@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular2HelloWorld
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
@@ -31,3 +32,7 @@ Run `ng github-pages:deploy` to deploy to GitHub Pages.
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 #Tesing git
+=======
+# ANGULAR2SAMPLE
+Angular2 project from ngbook
+>>>>>>> 6650661e31ce675aa2f2988d4dd795ee76fa433b
